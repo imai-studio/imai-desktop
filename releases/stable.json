@@ -1,42 +1,42 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.3",
-  "sequence": 3,
-  "commit": "c4f69b06cdcf046ba561b1ca51db5c9b8b5a732f",
-  "publishedAt": "2026-10-17T23:20:13.551Z",
+  "version": "0.1.21",
+  "sequence": 21,
+  "commit": "905d81f4824979013d9356e36a02ddd265501719",
+  "publishedAt": "2026-10-18T05:07:01.834Z",
   "assets": [
     {
-      "name": "IMAI-0.1.3-arm64.dmg",
+      "name": "IMAI-0.1.21-arm64.dmg",
       "arch": "arm64",
       "kind": "dmg",
-      "size": 128821114,
-      "sha256": "0c782e69b01eeea796c1339fdf6e292ec98f702733ef5e93333025c398dd41d1",
-      "url": "https://downloads.imai.studio/desktop/stable/darwin/arm64/3/IMAI-0.1.3-arm64.dmg"
+      "size": 128818394,
+      "sha256": "066c20bc2d348cfd0f42a97056a84418c490f3995008b66ed4c2dd18b152dabe",
+      "url": "https://downloads.imai.studio/desktop/stable/darwin/arm64/21/IMAI-0.1.21-arm64.dmg"
     },
     {
-      "name": "IMAI-darwin-arm64-0.1.3.zip",
+      "name": "IMAI-darwin-arm64-0.1.21.zip",
       "arch": "arm64",
       "kind": "zip",
-      "size": 128544852,
-      "sha256": "926f3bb1aecc8bb100f4775813c629efd0157bb1204d10525c07dc8eeea677c7",
-      "url": "https://downloads.imai.studio/desktop/stable/darwin/arm64/3/IMAI-darwin-arm64-0.1.3.zip"
+      "size": 128544842,
+      "sha256": "4535700a60c0f362e984ccb509b5175b3816b6f8f0e693c53aa0158c962ef08f",
+      "url": "https://downloads.imai.studio/desktop/stable/darwin/arm64/21/IMAI-darwin-arm64-0.1.21.zip"
     },
     {
-      "name": "IMAI-0.1.3-x64.dmg",
+      "name": "IMAI-0.1.21-x64.dmg",
       "arch": "x64",
       "kind": "dmg",
-      "size": 134412811,
-      "sha256": "1e344ebc1b441bceba4d5f80ee78a6ae70df522ee08a16654ec3d2889f42b272",
-      "url": "https://downloads.imai.studio/desktop/stable/darwin/x64/3/IMAI-0.1.3-x64.dmg"
+      "size": 134426973,
+      "sha256": "d197348d81a6a350456fc20314d85041ed9b2fb7e9e4b2c69a50c3da61ddca3d",
+      "url": "https://downloads.imai.studio/desktop/stable/darwin/x64/21/IMAI-0.1.21-x64.dmg"
     },
     {
-      "name": "IMAI-darwin-x64-0.1.3.zip",
+      "name": "IMAI-darwin-x64-0.1.21.zip",
       "arch": "x64",
       "kind": "zip",
-      "size": 134220620,
-      "sha256": "eaccdd87c7e2cda76068f4a9115daef49a4ec65cedcc73e75eaa6c02c611e2e0",
-      "url": "https://downloads.imai.studio/desktop/stable/darwin/x64/3/IMAI-darwin-x64-0.1.3.zip"
+      "size": 134220633,
+      "sha256": "2e45e48292ab7f98ff5a03d0bf284fe00c599cfae1b3d5f2461845fabdedce1b",
+      "url": "https://downloads.imai.studio/desktop/stable/darwin/x64/21/IMAI-darwin-x64-0.1.21.zip"
     }
   ]
 }
