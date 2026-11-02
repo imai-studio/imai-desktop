@@ -1,42 +1,42 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.217",
-  "sequence": 217,
-  "commit": "e067b6cdf999f8f5493aa360aa98ccd2a369a489",
-  "publishedAt": "2026-10-27T16:14:34.528Z",
+  "version": "0.1.306",
+  "sequence": 306,
+  "commit": "db19a7f30dd5805699f2d5526c91a91d3a1ad26f",
+  "publishedAt": "2026-11-02T16:11:56.276Z",
   "assets": [
     {
-      "name": "IMAI-0.1.217-arm64.dmg",
+      "name": "IMAI-0.1.306-arm64.dmg",
       "arch": "arm64",
       "kind": "dmg",
-      "size": 129156907,
-      "sha256": "43dd1f28a6229951df49c83e2804aecfd950ae38d85da32cd272577c104e0f3f",
-      "url": "https://downloads.imai.studio/desktop/stable/darwin/arm64/217/IMAI-0.1.217-arm64.dmg"
+      "size": 129150455,
+      "sha256": "e768b1f4886ce055de674b1f02141bbab09d7a5f099a80ee18f6d9532d6aab33",
+      "url": "https://downloads.imai.studio/desktop/stable/darwin/arm64/306/IMAI-0.1.306-arm64.dmg"
     },
     {
-      "name": "IMAI-darwin-arm64-0.1.217.zip",
+      "name": "IMAI-darwin-arm64-0.1.306.zip",
       "arch": "arm64",
       "kind": "zip",
-      "size": 128863040,
-      "sha256": "fc93056827a232c1d473941ef4b2db7ee0e2a631962bf6b68cf838cadd3ed413",
-      "url": "https://downloads.imai.studio/desktop/stable/darwin/arm64/217/IMAI-darwin-arm64-0.1.217.zip"
+      "size": 128862603,
+      "sha256": "243386b55a374791b5732a1592f193aadd8860004bf226719e696dd978ccb127",
+      "url": "https://downloads.imai.studio/desktop/stable/darwin/arm64/306/IMAI-darwin-arm64-0.1.306.zip"
     },
     {
-      "name": "IMAI-0.1.217-x64.dmg",
+      "name": "IMAI-0.1.306-x64.dmg",
       "arch": "x64",
       "kind": "dmg",
-      "size": 135969493,
-      "sha256": "a05603535ad414a8a6d1b0606277ac2b5c1c469c0f18e185b46be0b30778639d",
-      "url": "https://downloads.imai.studio/desktop/stable/darwin/x64/217/IMAI-0.1.217-x64.dmg"
+      "size": 135972007,
+      "sha256": "8053754cc1cd2a66b57685b6b3061dfc65ccc73eceaed3ee1fb8a2061a909b11",
+      "url": "https://downloads.imai.studio/desktop/stable/darwin/x64/306/IMAI-0.1.306-x64.dmg"
     },
     {
-      "name": "IMAI-darwin-x64-0.1.217.zip",
+      "name": "IMAI-darwin-x64-0.1.306.zip",
       "arch": "x64",
       "kind": "zip",
-      "size": 135792385,
-      "sha256": "e1393992776f19a1f6aa3966f06e265e1b6dc1e86b4a141863bdc749c4e59bf0",
-      "url": "https://downloads.imai.studio/desktop/stable/darwin/x64/217/IMAI-darwin-x64-0.1.217.zip"
+      "size": 135791841,
+      "sha256": "e3a82859dbf08467a4c8e36fed5ec757362f56836b4e21e417dcdd6d5a23a220",
+      "url": "https://downloads.imai.studio/desktop/stable/darwin/x64/306/IMAI-darwin-x64-0.1.306.zip"
     }
   ]
 }
